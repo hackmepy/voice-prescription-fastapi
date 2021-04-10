@@ -1,4 +1,7 @@
 nltk
+wordnet
+pros_cons
+reuters
 gunicorn
 spacy
 scispacy
