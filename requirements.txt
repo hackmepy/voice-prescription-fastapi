@@ -1,5 +1,4 @@
 gunicorn
-uvicorn
 json
 
 spacy==2.3.2
