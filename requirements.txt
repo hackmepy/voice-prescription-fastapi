@@ -1,3 +1,7 @@
+gunicorn
+uvicorn
+json
+
 spacy==2.3.2
 scispacy==0.2.5
 https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.2.5/en_ner_bc5cdr_md-0.2.5.tar.gz
@@ -18,6 +22,4 @@ scikit-learn==0.23.2
 networkx==2.5
 matplotlib==3.3.1
 seaborn==0.11.0
-gunicorn==20.0.4
-uvicorn==0.12.2
-json
+
